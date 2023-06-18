@@ -1,16 +1,25 @@
-### Hi there 👋
+#### <h1 align="center">Hi there 👋, I'm Euge</h1>
 
-<!--
-**grumps711/grumps711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying **Software Development** at [NETT Digital School]
 
-Here are some ideas to get you started:
+## Languages:
+<img src="https://skillicons.dev/icons?i=java,html,css,js,cpp">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Frameworks:
+<img src="https://skillicons.dev/icons?i=vue,spring,bootstrap,sass">
+
+## Tools:
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman">
+
+## DataBases:
+<img src="https://skillicons.dev/icons?i=mysql,supabase">
+
+## How to reach me: 
+  - Via email: eugeni.puigdomenech@gmail.com
+  - Via LinkedIn: [Eugeni Puigdomènech](https://www.linkedin.com/in/eugenipuigdomenech/)
+ 
+## General stats:  
+ <div align="left">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grumpy711&langs_count=3&theme=dracula"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=grumpy711&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
