@@ -20,6 +20,6 @@ I'm currently studying **Software Development** at [NETT Digital School]
  
 ## General stats:  
  <div align="left">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grumpy711&langs_count=3&theme=dracula"/>
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=grumpy711&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grumps711&langs_count=3&theme=dracula"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=grumps711&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
