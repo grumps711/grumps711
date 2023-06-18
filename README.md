@@ -1,6 +1,6 @@
 #### <h1 align="center">Hi there 👋, I'm Euge</h1>
 
-I'm currently studying **Software Development** at [NETT Digital School]
+I'm currently studying **Software Development** at [NETT Digital School](https://nettdigitalschool.com/)
 
 ## Languages:
 <img src="https://skillicons.dev/icons?i=java,html,css,js,cpp">
