@@ -12,7 +12,7 @@ I'm currently studying
 <img src="https://skillicons.dev/icons?i=vue,spring,bootstrap,sass">
 
 ## Tools:
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,intellij,postman">
 
 ## DataBases:
 <img src="https://skillicons.dev/icons?i=mysql,supabase">
