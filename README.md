@@ -5,10 +5,10 @@ I'm currently studying
 
 
 ## Languages:
-<img src="https://skillicons.dev/icons?i=java,html,css,js,cpp">
+<img src="https://skillicons.dev/icons?i=java,html,css,js,cpp,php">
 
 ## Frameworks:
-<img src="https://skillicons.dev/icons?i=vue,spring,bootstrap,sass">
+<img src="https://skillicons.dev/icons?i=react,vue,spring,bootstrap,sass">
 
 ## Tools:
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman">
